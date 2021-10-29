@@ -1,0 +1,50 @@
+/* FOR ENTIRE SITE */
+/* FOR ENTIRE SITE */
+body {
+margin: 0;
+}
+
+#header {
+	background-color: red;
+	min-height: 50px;
+	width: 100%;
+
+	display: grid;
+}
+
+#footer {
+	background-color: red;
+	min-height: 50px;
+	width: 100%;	
+}
+
+#bar {
+	background-color: yellowgreen;
+	min-height: 30px;
+	width: 100%;
+}
+
+#main {
+	background-color: yellow;
+	min-height: 800px;
+	width: 100%;
+}
+
+#sidebar {
+	width: 15%;
+	min-height: 800px;
+	background-color: navajowhite;
+}
+
+#yale {
+	background-color: blue;
+	min-height: 50px;
+	width: 12.5%;
+	padding: 20px;
+}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	margin: 0;
+}
